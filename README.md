@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryandcorrigan
+- 👋 Hi, I’m Ryan
 - 👀 I’m interested in reading, movies, cooking and coding.
 - 🌱 I’m currently learning how to code!
 - 💞️ I’m looking to collaborate on software development projects.
