@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ryan
 - 👀 I’m interested in reading, movies, cooking and coding.
 - 🌱 I’m currently learning how to code!
-- 💞️ I’m looking to collaborate on software development projects.
 - 📫 How to reach me is through email: ryandcorrigan@gmail.com
+- Philippians 4:13
 
 <!---
 ryandcorrigan/ryandcorrigan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
