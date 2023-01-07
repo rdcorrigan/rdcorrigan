@@ -10,8 +10,8 @@ I'm a web developer with a passion for JavaScript and Python.
 * ✉️  You can contact me at [ryandcorrigan@gmail.com](mailto:ryandcorrigan@gmail.com)
 * 🚀  I'm currently working on [To-Do List App](http://github.com/ryandcorrigan/ToDoListApp/blob/main/to_do_list.py)
 * 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on almost any kind of project.
-* ⚡  I have a cat and her name is Catdog.
+* 🤝  I'm open to collaborating on almost any kind of project
+* ⚡  I have a cat and her name is Catdog
 
 ### Skills
 
