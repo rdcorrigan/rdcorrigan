@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a web developer with a passion for JavaScript and Python.
+I'm a web developer with a passion for HTML/CSS, JavaScript and Python.
 
 * 🌍  I'm based in Alberta
 * ✉️  You can contact me at [ryandcorrigan@gmail.com](mailto:ryandcorrigan@gmail.com)
