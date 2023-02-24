@@ -6,7 +6,7 @@ Web Developer
 
 I'm a web developer with a passion for HTML/CSS, JavaScript and Python.
 
-* 🌍  I'm based in Alberta
+* 🌍  I'm based in Canada
 * ✉️  You can contact me at [ryandcorrigan@gmail.com](mailto:ryandcorrigan@gmail.com)
 * 🚀  I'm currently working on [To-Do List App](http://github.com/ryandcorrigan/ToDoListApp/blob/main/to_do_list.py)
 * 🧠  I'm learning JavaScript
