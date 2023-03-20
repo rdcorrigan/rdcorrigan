@@ -8,7 +8,7 @@ I'm a web developer with a passion for HTML/CSS, JavaScript and Python.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [ryandcorrigan@gmail.com](mailto:ryandcorrigan@gmail.com)
-* 🚀  I'm currently working on a [Trivia Quiz]([https://github.com/rdcorrigan/Shopping-List-App](https://github.com/rdcorrigan/coding_challenge-44/blob/trivia44/submissions/rdcorrigan.html))
+* 🚀  I'm currently working on a [Trivia Quiz](https://github.com/rdcorrigan/coding_challenge-44/blob/trivia44/submissions/rdcorrigan.html)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on almost any kind of project
 * ⚡  I have a cat and her name is Catdog
