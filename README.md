@@ -8,9 +8,7 @@ I'm a web developer with a passion for HTML/CSS, JavaScript and Python.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [ryandcorrigan@gmail.com](mailto:ryandcorrigan@gmail.com)
-* 🚀  I just built a <a href="https://rdcorrigan.github.io/calculatorApp/" target="_blank">Calculator</a>
-* *
-* , [Trivia Quiz](https://rdcorrigan.github.io/coding_challenge-44/submissions/rdcorrigan.html) and a [Seconds Converter App](https://rdcorrigan.github.io/secondsConverterApp/)
+* 🚀  I just built a [Calculator](https://rdcorrigan.github.io/calculatorApp/), [Trivia Quiz](https://rdcorrigan.github.io/coding_challenge-44/submissions/rdcorrigan.html) and a [Seconds Converter App](https://rdcorrigan.github.io/secondsConverterApp/)
 * 🧠  I'm learning React right now
 * 🤝  I'm open to collaborating on almost any kind of project
 * ⚡  I have a cat and her name is Catdog
@@ -31,7 +29,7 @@ I'm a web developer with a passion for HTML/CSS, JavaScript and Python.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ryandcorrigan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ryan-corrigan-3bb40b130/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Filippians413" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.github.com/rdcorrigan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ryan-corrigan-3bb40b130/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Filippians413" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> </p>
 
 ### Badges
 
