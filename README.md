@@ -8,7 +8,7 @@ I'm a web developer with a passion for HTML/CSS, JavaScript and Python.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [ryandcorrigan@gmail.com](mailto:ryandcorrigan@gmail.com)
-* 🚀  I just built a <a href="https://rdcorrigan.github.io/calculatorApp/" target="_blank" rel="noreferrer">Calculator</a>
+* 🚀  I just built a <a href="https://rdcorrigan.github.io/calculatorApp/" target="_blank">Calculator</a>
 * *
 * , [Trivia Quiz](https://rdcorrigan.github.io/coding_challenge-44/submissions/rdcorrigan.html) and a [Seconds Converter App](https://rdcorrigan.github.io/secondsConverterApp/)
 * 🧠  I'm learning React right now
