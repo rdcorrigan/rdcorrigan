@@ -12,7 +12,7 @@ I'm a web developer with a passion for HTML/CSS, JavaScript and Python.
 *   I'm learning React right now
 *   I'm open to collaborating on almost any kind of project
 *   I have a cat and her name is Catdog
-*   Here's my [portfolio](https://rdcorrigan.github.io/Portfolio2023/) 
+*    Here's my [portfolio](https://rdcorrigan.github.io/Portfolio2023/) 
 
 ### Skills
 
