@@ -7,7 +7,6 @@ Web Developer
 I'm a web developer with a passion for HTML/CSS, JavaScript and Python.
 
 *   I'm based in Canada
-*   You can contact me at [ryandcorrigan@gmail.com](mailto:ryandcorrigan@gmail.com)
 *   I just built a [Calculator](https://rdcorrigan.github.io/calculatorApp/), [Trivia Quiz](https://rdcorrigan.github.io/flamesTrivia/) and a [Seconds Converter App](https://rdcorrigan.github.io/secondsConverterApp/)
 *   I'm learning React right now
 *   I'm open to collaborating on almost any kind of project
